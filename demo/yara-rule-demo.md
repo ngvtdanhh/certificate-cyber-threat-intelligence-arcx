@@ -42,4 +42,4 @@ keylogger_malware suspicious.exe
 ```
 ## 🔐 Pro Tip
 
-Combine string signatures with file size, entrypoint offsets, or PE section entropy
+Combine string signatures with file size, entrypoint offsets, or PE section entropy.
