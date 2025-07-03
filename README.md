@@ -26,7 +26,7 @@ This course explores foundational concepts in Cyber Threat Intelligence (CTI) wi
 
 ## 📜 Certificate
 
-- 🎓 [`Cyber Threat Intelligence 101 – arcX Certificate`](./cert/cti101-arcx-certificate.png)
+- 🎓 [`Cyber Threat Intelligence 101 – arcX Certificate`](./cert/cti101-arcx-certificate.pdf)
 
 ---
 
